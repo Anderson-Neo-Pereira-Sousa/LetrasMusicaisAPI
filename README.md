@@ -1,4 +1,4 @@
-# Letras de Músicas com Streamlit
+# Letras de Músicas
 
 Este projeto usa o Streamlit para criar uma aplicação que permite ao usuário buscar e exibir a letra de uma música a partir de uma API pública de letras, a API Lyrics.ovh.
 
